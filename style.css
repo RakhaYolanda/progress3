@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url(slider1.jpg);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -60px;
+}
+
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 200px;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 25px;
+}
+
+.jumbotron hr {
+    border-color: aquamarine ;
+    width: 70px;
+    border-width: 3px;
+}
+
+.jumbotron .btn {
+    background-color: aquamarine;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
